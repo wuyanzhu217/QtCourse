@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/back.png</file>
+        <file>img/next.png</file>
+        <file>img/save.png</file>
+        <file>img/newlybuild.png</file>
+        <file>img/copy.png</file>
+        <file>img/font.png</file>
+        <file>img/toolbar.png</file>
+        <file>img/file.png</file>
+        <file>img/openfolder.png</file>
+        <file>img/textoutside.png</file>
+        <file>img/filesearch.png</file>
+        <file>img/showlinenum.png</file>
+        <file>img/statebar.png</file>
+        <file>img/cutting-one.png</file>
+        <file>img/file-conversion-one.png</file>
+        <file>img/paste.png</file>
+        <file>img/search.png</file>
+        <file>img/autoswitchline.png</file>
+        <file>img/cut.png</file>
+        <file>img/savefile.png</file>
+        <file>img/tool.png</file>
+        <file>img/save2.png</file>
+        <file>img/editor2.png</file>
+        <file>img/editor.png</file>
+        <file>img/new.png</file>
+    </qresource>
+</RCC>
