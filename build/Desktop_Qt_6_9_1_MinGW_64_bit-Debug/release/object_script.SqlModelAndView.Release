@@ -1,0 +1,12 @@
+release/editpatient.o
+release/loginwidget.o
+release/main.o
+release/mainwidget.o
+release/patientmanagerwidget.o
+release/registwidget.o
+release/qrc_resource.o
+release/moc_editpatient.o
+release/moc_loginwidget.o
+release/moc_mainwidget.o
+release/moc_patientmanagerwidget.o
+release/moc_registwidget.o

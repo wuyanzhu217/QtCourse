@@ -1,0 +1,12 @@
+debug/editpatient.o
+debug/loginwidget.o
+debug/main.o
+debug/mainwidget.o
+debug/patientmanagerwidget.o
+debug/registwidget.o
+debug/qrc_resource.o
+debug/moc_editpatient.o
+debug/moc_loginwidget.o
+debug/moc_mainwidget.o
+debug/moc_patientmanagerwidget.o
+debug/moc_registwidget.o
