@@ -1,0 +1,15 @@
+release/customtransfermodel.o
+release/fileiomanager.o
+release/filetransferclient.o
+release/landevicediscoverer.o
+release/main.o
+release/transferqueuemanager.o
+release/transferworkerthread.o
+release/widget.o
+release/moc_customtransfermodel.o
+release/moc_fileiomanager.o
+release/moc_filetransferclient.o
+release/moc_landevicediscoverer.o
+release/moc_transferqueuemanager.o
+release/moc_transferworkerthread.o
+release/moc_widget.o

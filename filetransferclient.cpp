@@ -29,7 +29,7 @@ bool FileTransferClient::connectToServer(const QString &serverIp, quint16 server
     }
 
     // 连接 TCP 服务器
-    m_tcpSocket->connectToHost(serverIp, serverPort);
+    m_tcpSocket->connectToHost(serverIp, 9901);
     // 等待连接完成（超时 5 秒）
     if (!m_tcpSocket->waitForConnected(5000)) {
         qDebug() << "TCP 连接超时：" << serverIp << ":" << serverPort;

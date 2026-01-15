@@ -116,9 +116,9 @@ void LanDeviceDiscoverer::onReadyRead()
         QString senderIp = senderAddr.toString();
 
         // 忽略本地设备消息
-        if (senderIp == m_localIpAddress || senderIp == "127.0.0.1") {
-            continue;
-        }
+        //if (senderIp == m_localIpAddress || senderIp == "127.0.0.1") {
+        //    continue;
+        //}
 
         // 解析消息（设备名|IP 地址）
         QString msg = QString::fromUtf8(datagram);

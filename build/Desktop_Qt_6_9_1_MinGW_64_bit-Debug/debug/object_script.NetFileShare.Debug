@@ -1,0 +1,15 @@
+debug/customtransfermodel.o
+debug/fileiomanager.o
+debug/filetransferclient.o
+debug/landevicediscoverer.o
+debug/main.o
+debug/transferqueuemanager.o
+debug/transferworkerthread.o
+debug/widget.o
+debug/moc_customtransfermodel.o
+debug/moc_fileiomanager.o
+debug/moc_filetransferclient.o
+debug/moc_landevicediscoverer.o
+debug/moc_transferqueuemanager.o
+debug/moc_transferworkerthread.o
+debug/moc_widget.o
