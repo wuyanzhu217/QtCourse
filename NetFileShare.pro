@@ -11,15 +11,19 @@ CONFIG += c++17
 SOURCES += \
     customtransfermodel.cpp \
     fileiomanager.cpp \
+    filetransferclient.cpp \
     landevicediscoverer.cpp \
     main.cpp \
+    transferqueuemanager.cpp \
     transferworkerthread.cpp \
     widget.cpp
 
 HEADERS += \
     customtransfermodel.h \
     fileiomanager.h \
+    filetransferclient.h \
     landevicediscoverer.h \
+    transferqueuemanager.h \
     transferworkerthread.h \
     widget.h
 
